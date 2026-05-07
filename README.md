@@ -25,7 +25,7 @@ Click the badge below to open the notebook in Colab. Set `QUICK_DEMO = True` (de
 ### Option 2 — local Jupyter
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SDV-Resource-Allocation-Final.git
+git clone https://github.com/MahmoudSaadHamza/SDV-Resource-Allocation-Final.git
 cd SDV-Resource-Allocation-Final
 pip install -r requirements.txt
 jupyter notebook sdv_resource_allocation.ipynb
