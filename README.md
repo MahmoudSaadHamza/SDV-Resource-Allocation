@@ -20,12 +20,12 @@ A single self-contained Jupyter notebook, [`sdv_resource_allocation.ipynb`](sdv_
 
 Click the badge below to open the notebook in Colab. Set `QUICK_DEMO = True` (default) for a 10-minute end-to-end verification run, or `QUICK_DEMO = False` to reproduce the full paper benchmark.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MahmoudSaadHamza/SDV-Resource-Allocation-Final/blob/main/sdv_resource_allocation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MahmoudSaadHamza/SDV-Resource-Allocation/blob/main/sdv_resource_allocation.ipynb)
 
 ### Option 2 — local Jupyter
 
 ```bash
-git clone https://github.com/MahmoudSaadHamza/SDV-Resource-Allocation-Final.git
+git clone https://github.com/MahmoudSaadHamza/SDV-Resource-Allocation.git
 cd SDV-Resource-Allocation-Final
 pip install -r requirements.txt
 jupyter notebook sdv_resource_allocation.ipynb
