@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.bak
+
+# Gurobi
+gurobi.log
+gurobi.lic
+*.lp
+*.mps
+
+# Data outputs (regenerable from notebook)
+training_data*.csv
+selector_results*.csv
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
